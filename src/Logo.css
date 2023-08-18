@@ -1,0 +1,17 @@
+.LogoDiv
+{
+    display: flex;
+}
+
+.LogoCapital
+{
+    text-align: right;
+    margin-left: 4%;
+}
+
+.LogoChild
+{
+    width: fit-content;
+    height: 0px;
+    align-self: flex-start;
+}
